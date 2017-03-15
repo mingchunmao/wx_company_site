@@ -1,0 +1,26 @@
+# db 
+db.sqlite3
+
+migrations
+
+# static file
+media
+static
+
+# Windows:
+.DS_Store
+.idea
+
+# Python
+*.py[cod]
+
+# debug
+/error.html
+/temp.py
+*.log
+
+back_database
+
+mysite_all_data.json
+
+/dump.rdb
